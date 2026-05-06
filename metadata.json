@@ -1,0 +1,10 @@
+{
+  "name": "MaskSense AI",
+  "description": "Advanced real-time face mask detection and compliance monitoring system.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "vision"
+  ]
+}
